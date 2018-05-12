@@ -1,0 +1,36 @@
+_repo: A-Man-in-the-Open_33423
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bracker, M. Leone
+    birthdate: 1885
+    deathdate: 1937
+    gutenberg_agent_id: '8758'
+    url: http://www.gutenberg.org/2009/agents/8758
+covers:
+- cover_type: archival
+  image_path: 33423-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pocock, Roger
+    aliases:
+    - Pocock, H. R. A. (Henry Roger Ashwell)
+    - Pocock, Henry Roger Ashwell
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36399'
+    url: http://www.gutenberg.org/2009/agents/36399
+description: ''
+gutenberg_issued: '2010-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: A Man in the Open
+url: http://www.gutenberg.org/ebooks/33423
